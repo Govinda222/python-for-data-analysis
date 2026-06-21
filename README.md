@@ -8,19 +8,26 @@ Every notebook in this repository represents concepts I have learned, practiced,
 
 ---
 
-## 📚 Repository Roadmap
+## 📁 Repository Structure
 
-- ✅ Python Basics
-- ⏳ Control Flow (if-else, loops)
-- ⏳ Functions
-- ⏳ Lists
-- ⏳ Tuples
-- ⏳ Sets
-- ⏳ Dictionaries
-- ⏳ Strings
-- ⏳ File Handling
-- ⏳ Exception Handling
-- ⏳ Object-Oriented Programming (OOP)
+python-for-data-analysis/
+│
+├── 01_python_basics.ipynb
+├── 02_control_flow.ipynb
+├── 03_functions.ipynb
+├── 04_lists.ipynb
+├── 05_tuples.ipynb
+├── 06_sets.ipynb
+├── 07_dictionaries.ipynb
+├── 08_real_world_list_usecases.ipynb
+├── 09_lambda_functions.ipynb
+├── 10_map_filter.ipynb
+├── 11_modules_and_packages.ipynb
+├── 12_standard_library.ipynb
+├── 13_file_handling.ipynb
+├── 14_file_paths.ipynb
+├── 15_exception_handling.ipynb
+└── README.md
 
 ---
 
@@ -34,12 +41,10 @@ Build a strong Python foundation before moving on to:
 - SQL
 - Power BI
 - Machine Learning
-
----
-
+  
+```
 ## 📁 Repository Structure
 
-```
 python-for-data-analysis/
 │
 ├── 01_python_basics.ipynb
@@ -49,14 +54,16 @@ python-for-data-analysis/
 ├── 05_tuples.ipynb
 ├── 06_sets.ipynb
 ├── 07_dictionaries.ipynb
-├── 08_strings.ipynb
-├── 09_file_handling.ipynb
-├── 10_exception_handling.ipynb
-├── 11_oop.ipynb
+├── 08_real_world_list_usecases.ipynb
+├── 09_lambda_functions.ipynb
+├── 10_map_filter.ipynb
+├── 11_modules_and_packages.ipynb
+├── 12_standard_library.ipynb
+├── 13_file_handling.ipynb
+├── 14_file_paths.ipynb
+├── 15_exception_handling.ipynb
 └── README.md
 ```
-
----
 
 ## 💻 What You'll Find Here
 
